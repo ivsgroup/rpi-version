@@ -1,0 +1,25 @@
+{
+  "name": "rpi-version",
+  "version": "1.0.0",
+  "description": "Detect raspberry pi revision",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ivsgroup/rpi-version.git"
+  },
+  "keywords": [
+    "rpi",
+    "revision",
+    "version",
+    "detect"
+  ],
+  "author": "Francois Leurent <fleurent@ivsweb.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivsgroup/rpi-version/issues"
+  },
+  "homepage": "https://github.com/ivsgroup/rpi-version"
+}

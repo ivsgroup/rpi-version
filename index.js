@@ -30,4 +30,4 @@ module.exports = function(){
   revision = cpu_info.slice(cpu_info.indexOf(":")+1 , cpu_info.indexOf("\n")).trim();
   return ras_tab[revision]
 }
- No newline at end of file
+

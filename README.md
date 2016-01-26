@@ -1,9 +1,9 @@
-= Rpi version
+# Rpi version
 
 Detect current RPI revision (from CPU infos http://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/)
 
 
-= API
+# API
 
 ```
 var model = require('rpi-version')();
@@ -12,6 +12,6 @@ var model = require('rpi-version')();
 ```
 
 
-= Credits
+# Credits
 * Mejdi Ourir
 

@@ -1,6 +1,6 @@
 {
   "name": "rpi-version",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Detect raspberry pi revision",
   "main": "index.js",
   "scripts": {

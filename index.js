@@ -18,7 +18,9 @@ var ras_tab = {
   "000e"   : "Model_B_Revision_2.0",
   "000f"   : "Model_B_Revision_2.0",
   "a01041" : "Model_B_PI_2",
+  "a02082" : "Model_B_PI_3",
   "a21041" : "Model_B_PI_2",
+  "a22082" : "Model_B_PI_3",
   "900092" : "Model_PiZero"
 };
 

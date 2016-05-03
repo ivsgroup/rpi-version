@@ -14,6 +14,8 @@ var ras_tab = {
   "0010"   : "Model_B+",
   "0011"   : "Compute_Module",
   "0012"   : "Model_A+",
+  "0013"   : "Model_B+_Revision_1.2",
+  "0014"   : "Compute_Module",
   "000d"   : "Model_B_Revision_2.0",
   "000e"   : "Model_B_Revision_2.0",
   "000f"   : "Model_B_Revision_2.0",

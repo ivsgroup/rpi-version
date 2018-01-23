@@ -15,5 +15,5 @@ var model = require('rpi-version')();
 
 
 # Credits
-* Mejdi Ourir
+* [idjem](https://github.com/idjem)
 * [131](https://github.com/131)

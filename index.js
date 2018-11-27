@@ -33,7 +33,8 @@ var ras_tab = {
   "900092" : "Model_PiZero_Revision_1.2",
   "900093" : "Model_PiZero_Revision_1.3",
   "920093" : "Model_PiZero_Revision_1.3",
-  "9000c1" : "Model_PiZeroW_Revision_1.1"
+  "9000c1" : "Model_PiZeroW_Revision_1.1",
+  "9020e0" : "Model_A+_PI_3"
 };
 
 

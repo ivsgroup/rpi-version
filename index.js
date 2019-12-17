@@ -29,6 +29,7 @@ var ras_tab = {
   "a22042" : "Model_B_PI_2_Revision_1.2",
   "a22082" : "Model_B_PI_3",
   "a32082" : "Model_B_PI_3",
+  "a52082" : "Model_B_PI_3",
   "a020d3" : "Model_B+_PI_3", 
   "900092" : "Model_PiZero_Revision_1.2",
   "900093" : "Model_PiZero_Revision_1.3",
